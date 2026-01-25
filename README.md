@@ -17,3 +17,13 @@ Please read the contributing guidelines before making any changes.
 ## License
 
 This project is licensed under the MIT License.
+
+
+# ERRORS SOLVING the execution: 
+```bash
+/usr/local/bin/python3.12 -m pip install matplotlib numpy scikit-image scipy
+/usr/local/bin/python3.12 -m pip install PyWavelets
+python3 -m ipykernel install --user --name=medical_imaging_venv --display-name="Python 3.12 (Medical Imaging)"
+
+
+```

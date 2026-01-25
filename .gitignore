@@ -1,0 +1,4 @@
+# Ignore Python virtual environment directories: 
+
+venv/
+/P4/venv/
